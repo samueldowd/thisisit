@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="crocodoc.viewer.min.css">
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="crocodoc.viewer.min.js"></script>
+	<div class="viewer" height: auto></div>   
+	<script type="text/javascript">
+	    var viewer = Crocodoc.createViewer('.viewer', {url: 'https://view-api.box.com/1/sessions/89a159342fdd4352956c39ff4ddaf3b1/assets/'
+		});
+	    viewer.load();
+	</script>
+	<style>
+	html {
+		height: 100%;
+	}
+	</style>    
+ 
+</head>
+<body>
+    	
+</body>
+
+    <script type="text/javascript">
+var windowWidth = $(window).width(); //retrieve current window width
+var windowHeight = $(window).height(); //retrieve current window height
+    
+console.log(windowWidth);
+console.log(windowHeight);
+
+    // console.log(function(fat));
+
+
+$(".viewer").height(windowHeight);
+$(".viewer").width(windowWidth);
+
+
+</script>
+
+</html>

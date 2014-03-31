@@ -1,0 +1,434 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is AE03-D808
+
+ Directory of D:\Home\My Documents\GitHub\thisisit\LOC
+
+03/30/2014  11:45 PM    <DIR>          .
+03/30/2014  11:45 PM    <DIR>          ..
+03/29/2014  11:53 PM             1,505 1-27 Final Excel Project Lesson Plan.html
+03/29/2014  11:52 PM             1,482 1.2 Web Site eval.html
+03/29/2014  11:54 PM             1,501 Advertisement Rubric.html
+03/29/2014  11:53 PM             1,503 Assignment 1-15 Multiple Choice Quiz.html
+03/29/2014  11:53 PM             1,476 Assignment 1-16.html
+03/29/2014  11:52 PM             1,488 Assignment 16- Sam Dowd.html
+03/29/2014  11:53 PM             1,489 Assignment 1_2A Sam Dowd.html
+03/29/2014  11:52 PM             1,514 Assignment 23- Construcivist Theory Dowd_Knapik.html
+03/29/2014  11:52 PM             1,511 Assignment 25- Mean Median and Mode copy.html
+03/29/2014  11:53 PM             1,495 Assignment 3_1 Sam Dowd copy.html
+03/29/2014  11:53 PM             1,488 Assignment 3_2 Sam Dowd.html
+03/29/2014  11:52 PM             1,490 Assignment 8- Mini Lesson.html
+03/29/2014  11:52 PM             1,490 Assignment10-ProblemSolvingUnit.html
+03/29/2014  11:53 PM             1,472 Assignment3.3.html
+03/29/2014  11:53 PM             1,521 Assignment5.2A-FinalProjectProposal-Draft2.html
+03/29/2014  11:52 PM             1,481 Assignment6-LessonPlan.html
+03/29/2014  11:52 PM             1,493 Assignment_10_Problem_Solving_Unit.html
+03/30/2014  11:26 PM            27,131 assmnttable.html
+03/30/2014  07:12 PM             2,921 blog.css
+03/30/2014  11:26 AM           131,578 bootstrap-rtl.css
+03/30/2014  11:26 AM           107,471 bootstrap-rtl.min.css
+03/30/2014  11:26 AM            20,102 bootstrap-theme.css
+03/30/2014  11:26 AM            22,488 bootstrap-theme.css.map
+03/30/2014  11:26 AM            17,749 bootstrap-theme.min.css
+03/30/2014  11:26 AM           130,064 bootstrap.css
+03/30/2014  11:26 AM           216,728 bootstrap.css.map
+03/30/2014  11:26 AM            57,921 bootstrap.js
+03/30/2014  11:26 AM           107,339 bootstrap.min.css
+03/29/2014  02:03 PM             1,680 carousel.css
+03/30/2014  02:56 PM             3,547 carousel_bs.css
+03/29/2014  11:53 PM             1,468 Chat5Prep.html
+03/30/2014  11:30 PM         1,634,715 cloc.exe
+03/30/2014  02:31 PM                 0 coverletter.html
+03/29/2014  07:12 PM             6,078 crocodoc.viewer.min.css
+03/29/2014  11:53 PM             1,492 Discussion 2.2 Initial Post.html
+03/29/2014  11:52 PM             1,486 Discussion Board Rubric.html
+03/29/2014  11:53 PM             1,479 Discussion2.2Summary.html
+03/29/2014  11:53 PM             1,484 Discussion2.3FinalSummary.html
+03/29/2014  11:55 PM             1,478 Dowd.Samuel.Methods.html
+03/29/2014  11:55 PM             1,482 dowd.samuel.reviewoflit.html
+03/29/2014  11:53 PM             1,476 DowdAssignment3_4.html
+03/29/2014  11:55 PM             1,475 Dowd_Final_Paper.html
+03/29/2014  11:56 PM             1,488 Dowd_LanguageSampleAssessment.html
+03/29/2014  11:56 PM             1,476 Dowd_SLPInterview.html
+03/29/2014  11:56 PM             1,488 EDUC-998FieldExperienceReport.html
+03/29/2014  11:56 PM             1,491 EDUC-998Kanzi.html
+03/29/2014  11:56 PM             1,507 EDUC-998LanisSpeechEvaluation.html
+03/29/2014  11:56 PM             1,496 EDUC-998Morphology.html
+03/29/2014  11:56 PM             1,502 EDUC-998OriginofLanguage.html
+03/29/2014  11:56 PM             1,496 EDUC-998Pragmatics.html
+03/29/2014  11:56 PM             1,476 EDUC-998Semantics.html
+03/29/2014  11:56 PM             1,509 EDUC-998SocialInteractionTheory.html
+03/29/2014  11:56 PM             1,501 EDUC-998SpeechDisorders.html
+03/29/2014  11:56 PM             1,506 EDUC-998Syntaxdiscussionpost.html
+03/29/2014  11:56 PM             1,500 EDUC-998WhatisLanguage.html
+03/29/2014  11:56 PM             1,497 EDUC-998WhorfQuotes.html
+03/29/2014  11:56 PM             1,502 EDUC-998WilliamsSyndrome.html
+03/29/2014  11:56 PM             1,497 EDUC998ContextClues.html
+03/29/2014  11:56 PM             1,497 EDUC998Introduction.html
+03/29/2014  11:53 PM             1,500 Freshman Tech Seminar Lesson Plan.html
+03/29/2014  11:55 PM             1,495 GEOG812 Sam Dowd_Final EssayQ2.html
+03/29/2014  11:53 PM             1,496 GroupEvaluation (1).html
+03/30/2014  08:59 PM             9,272 index (2).html
+03/30/2014  07:26 PM            11,832 index (3).html
+03/30/2014  11:11 PM            11,270 index (4).html
+03/30/2014  11:07 PM            10,768 index (5).html
+03/30/2014  09:24 PM            10,241 index (6).html
+03/30/2014  09:24 PM             9,625 index (7).html
+03/30/2014  04:34 PM            14,385 index (8).html
+03/30/2014  09:09 PM             8,282 index.html
+03/29/2014  11:52 PM             1,498 InteractivePowerPointPatternsminilesson.html
+03/29/2014  03:51 PM            83,615 jquery.min.js
+03/29/2014  11:53 PM             1,500 Know, Want, Learn 2.html
+03/29/2014  11:53 PM             1,488 Know, Want1.html
+03/29/2014  11:53 PM             1,494 LA 1.8- Newsletter Sam Dowd.html
+03/30/2014  11:45 PM                 0 list.txt
+03/29/2014  11:53 PM             1,472 LiveChat4Prep.html
+03/29/2014  02:03 PM               509 logo.css
+03/29/2014  11:52 PM             1,488 Math Inst Jeopardy (1)x.html
+03/29/2014  11:52 PM             1,481 Math Inst password.html
+03/29/2014  02:03 PM             3,009 pageflip.css
+03/29/2014  11:53 PM             1,500 Presentation Rubric.html
+03/29/2014  02:03 PM             1,807 presentation.css
+03/29/2014  11:53 PM             1,479 PuzzleMaker puzzle.html
+03/29/2014  11:55 PM             1,480 ResearchPaperProposal.html
+03/29/2014  11:55 PM             1,502 ResearchTypesProsandCons.html
+03/29/2014  11:53 PM             1,505 SamDowd_EDUC-998Final (2).html
+03/29/2014  11:56 PM             1,480 SamDowd_EDUC-998Final.html
+03/29/2014  11:53 PM             1,485 Sam_Dowd_Annotated_Hotlist.html
+03/29/2014  11:52 PM             1,475 SMART Notebook.html
+03/29/2014  11:53 PM             1,479 SoftwareEvaluation.html
+03/29/2014  11:53 PM             1,503 SWOT Analysis Rubric.html
+03/29/2014  11:53 PM             1,499 SWOTAnalysisTemplate.html
+03/30/2014  01:51 PM             1,629 tagul.html
+03/29/2014  11:56 PM            14,905 text-1 (10).html
+03/29/2014  11:56 PM            25,755 text-1 (11).html
+03/29/2014  11:56 PM             5,253 text-1 (12).html
+03/29/2014  11:56 PM            11,203 text-1 (13).html
+03/29/2014  11:56 PM            11,203 text-1 (14).html
+03/29/2014  11:56 PM             9,296 text-1 (15).html
+03/29/2014  11:56 PM             8,315 text-1 (16).html
+03/29/2014  11:56 PM             7,973 text-1 (17).html
+03/29/2014  11:56 PM             9,632 text-1 (18).html
+03/29/2014  11:55 PM            12,493 text-1 (19).html
+03/29/2014  11:56 PM            21,327 text-1 (2).html
+03/29/2014  11:55 PM            18,643 text-1 (20).html
+03/29/2014  11:55 PM             1,513 text-1 (21).html
+03/29/2014  11:55 PM            15,028 text-1 (22).html
+03/29/2014  11:55 PM            30,858 text-1 (23).html
+03/29/2014  11:55 PM            29,399 text-1 (24).html
+03/29/2014  11:55 PM            31,092 text-1 (25).html
+03/29/2014  11:55 PM            19,110 text-1 (26).html
+03/29/2014  11:55 PM            26,344 text-1 (27).html
+03/29/2014  11:55 PM            17,174 text-1 (28).html
+03/29/2014  11:55 PM             1,545 text-1 (29).html
+03/29/2014  11:56 PM             6,786 text-1 (3).html
+03/29/2014  11:55 PM            37,309 text-1 (30).html
+03/29/2014  11:55 PM            37,594 text-1 (31).html
+03/29/2014  11:55 PM            16,695 text-1 (32).html
+03/29/2014  11:55 PM            32,187 text-1 (33).html
+03/29/2014  11:55 PM            17,050 text-1 (34).html
+03/29/2014  11:55 PM             8,479 text-1 (35).html
+03/29/2014  11:55 PM               341 text-1 (36).html
+03/29/2014  11:55 PM             4,983 text-1 (37).html
+03/29/2014  11:54 PM             4,331 text-1 (38).html
+03/29/2014  11:54 PM             2,548 text-1 (39).html
+03/29/2014  11:56 PM            11,261 text-1 (4).html
+03/29/2014  11:54 PM             2,854 text-1 (40).html
+03/29/2014  11:54 PM             3,711 text-1 (41).html
+03/29/2014  11:54 PM            14,061 text-1 (42).html
+03/29/2014  11:54 PM            23,168 text-1 (43).html
+03/29/2014  11:54 PM            17,818 text-1 (44).html
+03/29/2014  11:54 PM            46,941 text-1 (45).html
+03/29/2014  11:54 PM            28,780 text-1 (46).html
+03/29/2014  11:54 PM            18,437 text-1 (47).html
+03/29/2014  11:54 PM           121,978 text-1 (48).html
+03/29/2014  11:54 PM            48,592 text-1 (49).html
+03/29/2014  11:56 PM            13,233 text-1 (5).html
+03/29/2014  11:54 PM            27,891 text-1 (50).html
+03/29/2014  11:54 PM            14,061 text-1 (51).html
+03/29/2014  11:53 PM             1,950 text-1 (52).html
+03/29/2014  11:53 PM            23,736 text-1 (53).html
+03/29/2014  11:53 PM            46,515 text-1 (54).html
+03/29/2014  11:53 PM            52,073 text-1 (55).html
+03/29/2014  11:53 PM            41,043 text-1 (56).html
+03/29/2014  11:53 PM            15,583 text-1 (57).html
+03/29/2014  11:53 PM             1,018 text-1 (58).html
+03/29/2014  11:53 PM             3,238 text-1 (59).html
+03/29/2014  11:56 PM            11,157 text-1 (6).html
+03/29/2014  11:53 PM            11,359 text-1 (60).html
+03/29/2014  11:53 PM            11,868 text-1 (61).html
+03/29/2014  11:53 PM                97 text-1 (62).html
+03/29/2014  11:53 PM               378 text-1 (63).html
+03/29/2014  11:52 PM                99 text-1 (64).html
+03/29/2014  11:52 PM            21,404 text-1 (65).html
+03/29/2014  11:52 PM            56,771 text-1 (66).html
+03/29/2014  11:52 PM               296 text-1 (67).html
+03/29/2014  11:52 PM            29,634 text-1 (68).html
+03/29/2014  11:52 PM            27,676 text-1 (69).html
+03/29/2014  11:56 PM            14,153 text-1 (7).html
+03/29/2014  11:52 PM            24,942 text-1 (70).html
+03/29/2014  11:52 PM            32,610 text-1 (71).html
+03/29/2014  11:52 PM            39,866 text-1 (72).html
+03/29/2014  11:52 PM            15,583 text-1 (73).html
+03/29/2014  11:52 PM            11,359 text-1 (74).html
+03/29/2014  11:56 PM             9,962 text-1 (8).html
+03/29/2014  11:56 PM             9,546 text-1 (9).html
+03/29/2014  11:56 PM            18,927 text-1.html
+03/29/2014  11:55 PM             5,678 text-10 (2).html
+03/29/2014  11:54 PM            10,829 text-10 (3).html
+03/29/2014  11:54 PM            10,829 text-10 (4).html
+03/29/2014  11:53 PM             2,881 text-10 (5).html
+03/29/2014  11:53 PM               641 text-10 (6).html
+03/29/2014  11:52 PM                99 text-10 (7).html
+03/29/2014  11:55 PM            19,638 text-10.html
+03/29/2014  11:55 PM             6,039 text-11 (2).html
+03/29/2014  11:54 PM             3,461 text-11 (3).html
+03/29/2014  11:54 PM             3,461 text-11 (4).html
+03/29/2014  11:53 PM               528 text-11 (5).html
+03/29/2014  11:53 PM               643 text-11 (6).html
+03/29/2014  11:52 PM                99 text-11 (7).html
+03/29/2014  11:55 PM             8,988 text-11.html
+03/29/2014  11:54 PM             5,136 text-12 (2).html
+03/29/2014  11:54 PM             5,136 text-12 (3).html
+03/29/2014  11:53 PM               524 text-12 (4).html
+03/29/2014  11:53 PM               611 text-12 (5).html
+03/29/2014  11:52 PM                99 text-12 (6).html
+03/29/2014  11:55 PM             6,012 text-12.html
+03/29/2014  11:54 PM             4,642 text-13 (2).html
+03/29/2014  11:54 PM             4,642 text-13 (3).html
+03/29/2014  11:53 PM             3,169 text-13 (4).html
+03/29/2014  11:53 PM               620 text-13 (5).html
+03/29/2014  11:52 PM                99 text-13 (6).html
+03/29/2014  11:55 PM             5,004 text-13.html
+03/29/2014  11:54 PM            13,484 text-14 (2).html
+03/29/2014  11:54 PM            13,484 text-14 (3).html
+03/29/2014  11:53 PM               528 text-14 (4).html
+03/29/2014  11:53 PM               611 text-14 (5).html
+03/29/2014  11:52 PM                99 text-14 (6).html
+03/29/2014  11:55 PM             5,476 text-14.html
+03/29/2014  11:54 PM             3,043 text-15 (2).html
+03/29/2014  11:54 PM             3,043 text-15 (3).html
+03/29/2014  11:53 PM               524 text-15 (4).html
+03/29/2014  11:52 PM                99 text-15 (5).html
+03/29/2014  11:55 PM             5,563 text-15.html
+03/29/2014  11:53 PM             3,374 text-16 (2).html
+03/29/2014  11:52 PM                99 text-16 (3).html
+03/29/2014  11:55 PM             4,772 text-16.html
+03/29/2014  11:52 PM                99 text-17 (2).html
+03/29/2014  11:55 PM             4,765 text-17.html
+03/29/2014  11:52 PM                99 text-18 (2).html
+03/29/2014  11:55 PM             4,914 text-18.html
+03/29/2014  11:52 PM                99 text-19 (2).html
+03/29/2014  11:55 PM             6,588 text-19.html
+03/29/2014  11:55 PM            19,723 text-2 (10).html
+03/29/2014  11:55 PM            30,542 text-2 (11).html
+03/29/2014  11:55 PM            31,508 text-2 (12).html
+03/29/2014  11:55 PM            19,380 text-2 (13).html
+03/29/2014  11:55 PM             9,924 text-2 (14).html
+03/29/2014  11:55 PM             8,770 text-2 (15).html
+03/29/2014  11:55 PM             3,243 text-2 (16).html
+03/29/2014  11:54 PM             3,448 text-2 (17).html
+03/29/2014  11:54 PM             3,134 text-2 (18).html
+03/29/2014  11:54 PM               349 text-2 (19).html
+03/29/2014  11:56 PM            23,480 text-2 (2).html
+03/29/2014  11:54 PM            10,742 text-2 (20).html
+03/29/2014  11:54 PM            23,583 text-2 (21).html
+03/29/2014  11:54 PM            18,327 text-2 (22).html
+03/29/2014  11:54 PM             5,566 text-2 (23).html
+03/29/2014  11:54 PM            81,912 text-2 (24).html
+03/29/2014  11:54 PM            22,312 text-2 (25).html
+03/29/2014  11:54 PM            19,784 text-2 (26).html
+03/29/2014  11:54 PM            10,742 text-2 (27).html
+03/29/2014  11:53 PM             2,918 text-2 (28).html
+03/29/2014  11:53 PM            14,484 text-2 (29).html
+03/29/2014  11:56 PM            15,567 text-2 (3).html
+03/29/2014  11:53 PM            29,039 text-2 (30).html
+03/29/2014  11:53 PM             4,874 text-2 (31).html
+03/29/2014  11:53 PM               528 text-2 (32).html
+03/29/2014  11:53 PM             8,473 text-2 (33).html
+03/29/2014  11:53 PM            16,881 text-2 (34).html
+03/29/2014  11:53 PM             4,180 text-2 (35).html
+03/29/2014  11:52 PM                99 text-2 (36).html
+03/29/2014  11:52 PM             3,782 text-2 (37).html
+03/29/2014  11:52 PM            25,468 text-2 (38).html
+03/29/2014  11:52 PM             6,271 text-2 (39).html
+03/29/2014  11:56 PM            19,818 text-2 (4).html
+03/29/2014  11:52 PM            38,049 text-2 (40).html
+03/29/2014  11:52 PM             8,473 text-2 (41).html
+03/29/2014  11:55 PM             9,940 text-2 (5).html
+03/29/2014  11:55 PM            19,930 text-2 (6).html
+03/29/2014  11:55 PM             4,313 text-2 (7).html
+03/29/2014  11:55 PM            20,901 text-2 (8).html
+03/29/2014  11:55 PM            30,472 text-2 (9).html
+03/29/2014  11:56 PM            16,892 text-2.html
+03/29/2014  11:52 PM                99 text-20 (2).html
+03/29/2014  11:55 PM             6,142 text-20.html
+03/29/2014  11:52 PM                99 text-21 (2).html
+03/29/2014  11:55 PM            17,443 text-21.html
+03/29/2014  11:52 PM                99 text-22 (2).html
+03/29/2014  11:55 PM            21,975 text-22.html
+03/29/2014  11:52 PM                99 text-23 (2).html
+03/29/2014  11:55 PM             6,003 text-23.html
+03/29/2014  11:52 PM                99 text-24 (2).html
+03/29/2014  11:55 PM             5,704 text-24.html
+03/29/2014  11:52 PM                99 text-25 (2).html
+03/29/2014  11:55 PM             4,756 text-25.html
+03/29/2014  11:52 PM                99 text-26 (2).html
+03/29/2014  11:55 PM            38,683 text-26.html
+03/29/2014  11:52 PM                99 text-27 (2).html
+03/29/2014  11:55 PM             2,190 text-27.html
+03/29/2014  11:52 PM                99 text-28 (2).html
+03/29/2014  11:55 PM             2,893 text-28.html
+03/29/2014  11:52 PM                99 text-29 (2).html
+03/29/2014  11:55 PM             3,264 text-29.html
+03/29/2014  11:55 PM            19,519 text-3 (10).html
+03/29/2014  11:55 PM            15,871 text-3 (11).html
+03/29/2014  11:55 PM             7,404 text-3 (12).html
+03/29/2014  11:55 PM             2,897 text-3 (13).html
+03/29/2014  11:54 PM            21,067 text-3 (14).html
+03/29/2014  11:54 PM            11,894 text-3 (15).html
+03/29/2014  11:54 PM            77,565 text-3 (16).html
+03/29/2014  11:54 PM           109,706 text-3 (17).html
+03/29/2014  11:54 PM            21,067 text-3 (18).html
+03/29/2014  11:53 PM             3,215 text-3 (19).html
+03/29/2014  11:56 PM            14,154 text-3 (2).html
+03/29/2014  11:53 PM             4,751 text-3 (20).html
+03/29/2014  11:53 PM               524 text-3 (21).html
+03/29/2014  11:53 PM               303 text-3 (22).html
+03/29/2014  11:52 PM                99 text-3 (23).html
+03/29/2014  11:52 PM             1,274 text-3 (24).html
+03/29/2014  11:52 PM             6,445 text-3 (25).html
+03/29/2014  11:55 PM            11,156 text-3 (3).html
+03/29/2014  11:55 PM            19,761 text-3 (4).html
+03/29/2014  11:55 PM             4,363 text-3 (5).html
+03/29/2014  11:55 PM             9,889 text-3 (6).html
+03/29/2014  11:55 PM            12,070 text-3 (7).html
+03/29/2014  11:55 PM             6,419 text-3 (8).html
+03/29/2014  11:55 PM            11,486 text-3 (9).html
+03/29/2014  11:56 PM            23,475 text-3.html
+03/29/2014  11:52 PM                99 text-30 (2).html
+03/29/2014  11:55 PM             8,006 text-30.html
+03/29/2014  11:52 PM                99 text-31 (2).html
+03/29/2014  11:55 PM             7,514 text-31.html
+03/29/2014  11:52 PM                99 text-32.html
+03/29/2014  11:52 PM                99 text-33.html
+03/29/2014  11:52 PM                99 text-34.html
+03/29/2014  11:52 PM                99 text-35.html
+03/29/2014  11:52 PM                99 text-36.html
+03/29/2014  11:52 PM                99 text-37.html
+03/29/2014  11:52 PM                99 text-38.html
+03/29/2014  11:52 PM                99 text-39.html
+03/29/2014  11:54 PM            15,374 text-4 (10).html
+03/29/2014  11:53 PM             4,388 text-4 (11).html
+03/29/2014  11:53 PM             4,193 text-4 (12).html
+03/29/2014  11:53 PM             3,208 text-4 (13).html
+03/29/2014  11:53 PM               612 text-4 (14).html
+03/29/2014  11:52 PM                99 text-4 (15).html
+03/29/2014  11:52 PM             2,582 text-4 (16).html
+03/29/2014  11:55 PM            11,409 text-4 (2).html
+03/29/2014  11:55 PM             5,140 text-4 (3).html
+03/29/2014  11:55 PM               583 text-4 (4).html
+03/29/2014  11:55 PM            18,834 text-4 (5).html
+03/29/2014  11:54 PM            15,374 text-4 (6).html
+03/29/2014  11:54 PM            10,270 text-4 (7).html
+03/29/2014  11:54 PM           123,163 text-4 (8).html
+03/29/2014  11:54 PM            87,468 text-4 (9).html
+03/29/2014  11:56 PM            15,213 text-4.html
+03/29/2014  11:52 PM                99 text-40.html
+03/29/2014  11:52 PM                99 text-41.html
+03/29/2014  11:52 PM                99 text-42.html
+03/29/2014  11:52 PM                99 text-43.html
+03/29/2014  11:52 PM                99 text-44.html
+03/29/2014  11:52 PM                99 text-45.html
+03/29/2014  11:52 PM                99 text-46.html
+03/29/2014  11:52 PM                99 text-47.html
+03/29/2014  11:52 PM                99 text-48.html
+03/29/2014  11:52 PM                99 text-49.html
+03/29/2014  11:53 PM             5,200 text-5 (10).html
+03/29/2014  11:53 PM               528 text-5 (11).html
+03/29/2014  11:53 PM               593 text-5 (12).html
+03/29/2014  11:52 PM                99 text-5 (13).html
+03/29/2014  11:55 PM            10,223 text-5 (2).html
+03/29/2014  11:55 PM             5,229 text-5 (3).html
+03/29/2014  11:54 PM            32,758 text-5 (4).html
+03/29/2014  11:54 PM            18,572 text-5 (5).html
+03/29/2014  11:54 PM            85,802 text-5 (6).html
+03/29/2014  11:54 PM            53,889 text-5 (7).html
+03/29/2014  11:54 PM            32,758 text-5 (8).html
+03/29/2014  11:53 PM             2,894 text-5 (9).html
+03/29/2014  11:56 PM            12,602 text-5.html
+03/29/2014  11:52 PM                99 text-50.html
+03/29/2014  11:52 PM                99 text-51.html
+03/29/2014  11:52 PM                99 text-52.html
+03/29/2014  11:52 PM                99 text-53.html
+03/29/2014  11:52 PM                99 text-54.html
+03/29/2014  11:52 PM                99 text-55.html
+03/29/2014  11:52 PM                99 text-56.html
+03/29/2014  11:52 PM                99 text-57.html
+03/29/2014  11:52 PM                99 text-58.html
+03/29/2014  11:52 PM                99 text-59.html
+03/29/2014  11:53 PM             2,303 text-6 (10).html
+03/29/2014  11:53 PM               524 text-6 (11).html
+03/29/2014  11:53 PM               637 text-6 (12).html
+03/29/2014  11:52 PM                99 text-6 (13).html
+03/29/2014  11:55 PM            12,814 text-6 (2).html
+03/29/2014  11:55 PM             5,437 text-6 (3).html
+03/29/2014  11:54 PM            20,463 text-6 (4).html
+03/29/2014  11:54 PM            14,778 text-6 (5).html
+03/29/2014  11:54 PM            29,321 text-6 (6).html
+03/29/2014  11:54 PM           117,565 text-6 (7).html
+03/29/2014  11:54 PM            20,463 text-6 (8).html
+03/29/2014  11:53 PM             2,817 text-6 (9).html
+03/29/2014  11:56 PM            14,193 text-6.html
+03/29/2014  11:52 PM                99 text-60.html
+03/29/2014  11:52 PM                99 text-61.html
+03/29/2014  11:52 PM                99 text-62.html
+03/29/2014  11:52 PM                99 text-63.html
+03/29/2014  11:52 PM                99 text-64.html
+03/29/2014  11:52 PM                99 text-65.html
+03/29/2014  11:52 PM                99 text-66.html
+03/29/2014  11:52 PM                99 text-67.html
+03/29/2014  11:52 PM                99 text-68.html
+03/29/2014  11:52 PM                99 text-69.html
+03/29/2014  11:53 PM             2,932 text-7 (10).html
+03/29/2014  11:53 PM               642 text-7 (11).html
+03/29/2014  11:52 PM                99 text-7 (12).html
+03/29/2014  11:55 PM            19,066 text-7 (2).html
+03/29/2014  11:55 PM             4,567 text-7 (3).html
+03/29/2014  11:54 PM            15,131 text-7 (4).html
+03/29/2014  11:54 PM            12,843 text-7 (5).html
+03/29/2014  11:54 PM            90,183 text-7 (6).html
+03/29/2014  11:54 PM            12,599 text-7 (7).html
+03/29/2014  11:54 PM            15,131 text-7 (8).html
+03/29/2014  11:53 PM             1,734 text-7 (9).html
+03/29/2014  11:56 PM            15,277 text-7.html
+03/29/2014  11:52 PM             6,594 text-8 (10).html
+03/29/2014  11:55 PM            12,122 text-8 (2).html
+03/29/2014  11:55 PM             4,917 text-8 (3).html
+03/29/2014  11:54 PM             3,534 text-8 (4).html
+03/29/2014  11:54 PM            21,997 text-8 (5).html
+03/29/2014  11:54 PM           144,973 text-8 (6).html
+03/29/2014  11:54 PM             3,534 text-8 (7).html
+03/29/2014  11:53 PM               528 text-8 (8).html
+03/29/2014  11:53 PM               612 text-8 (9).html
+03/29/2014  11:56 PM            15,637 text-8.html
+03/29/2014  11:55 PM            10,236 text-9 (2).html
+03/29/2014  11:55 PM             5,205 text-9 (3).html
+03/29/2014  11:54 PM            10,898 text-9 (4).html
+03/29/2014  11:54 PM            68,361 text-9 (5).html
+03/29/2014  11:54 PM            10,898 text-9 (6).html
+03/29/2014  11:53 PM               524 text-9 (7).html
+03/29/2014  11:52 PM               643 text-9 (8).html
+03/29/2014  11:52 PM                99 text-9 (9).html
+03/29/2014  11:56 PM            10,692 text-9.html
+03/29/2014  02:03 PM               801 theme.css
+03/29/2014  11:53 PM             1,518 Ticket to Leave_ Peer Collaboration.html
+03/29/2014  11:55 PM             1,495 UNIT1-Assessments.html
+03/29/2014  11:55 PM             1,498 Unit2TypesofResearch.html
+03/29/2014  11:55 PM             1,498 Unit3-SocialResearch.html
+03/29/2014  11:55 PM             1,502 Unit4-ResearchStrategies.html
+03/29/2014  02:03 PM             6,202 viewer.css
+03/29/2014  11:53 PM             1,507 Website Evaluation Worksheet.html
+03/29/2014  11:53 PM             1,476 Web_Committee_PPT.html
+03/29/2014  11:53 PM             1,492 Wikispaces Link.html
+             425 File(s)      6,916,853 bytes
+               2 Dir(s)  1,216,736,505,856 bytes free

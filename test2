@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="crocodoc.viewer.min.css">
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="crocodoc.viewer.min.js">
+		<script type="text/javascript">
+		    var viewer = Crocodoc.createViewer('.viewer', {
+		        url: 'https://view-api.box.com/1/sessions/89a159342fdd4352956c39ff4ddaf3b1
+		       /assets/'
+		    });
+		    viewer.load();
+		</script>    
+	</script>    
+</head>
+<body>
+    	<div class="viewer" style="height: 100%"></div>
+</body>
+</html>

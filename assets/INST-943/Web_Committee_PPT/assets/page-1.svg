@@ -1,0 +1,22 @@
+<svg class="crocodoc-nrmwt1 crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="800.25pt" height="600.0pt" viewBox="0 0 800.25 600.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-nrmwt1 tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-nrmwt1 path { fill:transparent; }
+.crocodoc-nrmwt1 [mbm="1"] { opacity:0; }
+.crocodoc-nrmwt1 [mbm="2"] { opacity:0.3; }
+.crocodoc-nrmwt1 [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-nrmwt1 [mbm] { opacity:1; }
+}
+.crocodoc-nrmwt1 .far1112 { font-family: Helvetica, Arial; font-style:italic; line-height:1em; }
+</style>
+<defs>
+
+</defs>
+<path d="M0 600 l800.25 0 l0 -600 l-800.25 0 l0 600 z "  style="fill:#ffffff;fill-rule:evenodd;"/><path d="M0 600 l800.25 0 l0 -600 l-800.25 0 l0 600 z "  style="fill:#008000;fill-rule:evenodd;"/><text class="far1112" font-size="32.28" style="fill:#000000"><tspan x="71.35" y="283.77" textLength="656.69" class="far810" font-size="48.03" style="fill:#ff6600" dx="0,-0.14,0.1,0,0,0,0.19,0.29,0,0,-0.19,0.1,0.1,0.38,0.29,0,-0.67,-0.14,0,0,0,0.19,-0.24,-0.24,0.29">High School Web Committee</tspan>&#8203;<tspan x="322.85" y="389.60" textLength="155.23" class="far35" font-size="32.30" dx="0,0.19,0,0.13,-1.49,0,0,-1.55">Sam Dowd</tspan>&#8203;<tspan x="163.70" y="426.40" textLength="473.18" dx="0,-0.19,0,0.42,0,0.13,0,0.39,0,0.13,-0.39,-2.23,0,0.06,0,0.06,0,-0.16,0,0.06,0.29,0,0.13,-2.23,0.23,0,0.13,0.36,0.29,0,0.39,-0.42,0.36">Technology Integration Specialist</tspan></text><text class="far35" font-size="27.02" style="fill:#000000"><tspan x="19.52" y="48.80" textLength="477.29" dx="0,-0.73,-0.78,-0.76,0,2.19,0,0,0,0,0,-0.78,0,0,0,-0.78,0,-0.78,2.22,-0.73,-0.76,-0.76,-0.76,2.97,0,0,0,0,-0.76,-0.76,0,-0.78,2.22,0,0,0,0,0,-0.81,0,-0.73">This presentation will be given to a new </tspan>&#8203;<tspan x="19.52" y="79.58" textLength="425.51" dx="0,0,0,0.73,0.73,-0.76,0,0,0,0,-0.78,0,0,0,0,-0.76,0,-0.78,1.46,0,0,-0.78,0,0,-0.76,1.46,0,0,0,0,-0.81,0,0,0">committee of High School teachers </tspan>&#8203;<tspan x="19.52" y="110.35" textLength="402.29" dx="0,-0.73,-0.78,-0.76,0,-0.78,2.97,-0.76,0,0.7,0,0,-0.76,-0.78,0,1.46,0,0,0,0.73,0,0,-0.76,0,0,0,0,0,0,0,0,0,0">which is being formed to address </tspan>&#8203;<tspan x="19.52" y="141.12" textLength="377.38" dx="0,-0.76,0,0,-0.76,0,-0.78,0,2.19,-0.73,0,0,0.7,-0.76,0,0,-0.81,0,0,0,1.43,0,0,0,0,-0.78,0,-0.76,0,0,-0.76,-0.76,-0.76">various web issues, specifically </tspan>&#8203;<tspan x="19.52" y="171.90" textLength="341.38" dx="0,0,0,0.73,0.73,-0.78,-0.78,-0.76,0,0,0,-0.78,0,-0.78,2.22,-0.73,-0.76,0,-0.78,2.22,0,0,0,0,-0.78,0,0">communication with parents.</tspan></text>
+</svg>

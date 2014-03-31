@@ -1,0 +1,22 @@
+<svg class="crocodoc-nrmwt1 crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="800.25pt" height="600.0pt" viewBox="0 0 800.25 600.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-nrmwt1 tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-nrmwt1 path { fill:transparent; }
+.crocodoc-nrmwt1 [mbm="1"] { opacity:0; }
+.crocodoc-nrmwt1 [mbm="2"] { opacity:0.3; }
+.crocodoc-nrmwt1 [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-nrmwt1 [mbm] { opacity:1; }
+}
+
+</style>
+<defs>
+
+</defs>
+<path d="M0 600 l800.25 0 l0 -600 l-800.25 0 l0 600 z "  style="fill:#ffffff;fill-rule:evenodd;"/><path d="M0 600 l800.25 0 l0 -600 l-800.25 0 l0 600 z "  style="fill:#008000;fill-rule:evenodd;"/><text class="far35" font-size="27.02" style="fill:#000000"><tspan x="19.52" y="63.05" textLength="118.98" class="far810" font-size="42.80" style="fill:#ff6600" dx="0,-0.26,0,0.3,0">Goals</tspan>&#8203;<tspan x="28.52" y="168.90" textLength="9.46" class="f38">&#8226;</tspan>&#8203;<tspan x="55.55" y="168.90" textLength="690.43" dx="0,0,0,0,-0.73,0,0,0,0,-0.7,-0.73,0,2.24,0,-0.73,0,0.73,-0.73,0,-0.73,1.49,-0.73,-0.76,0,0,0,0.78,0,0,-0.7,0,-0.76,2.24,-0.73,0,0.76,0,0,0.76,0.73,-0.76,-0.76,-0.73,0,0,0,0,0,0.76,-0.73,-0.73,0,1.49,0,-0.73,0">Standardize the way information is communicated via the </tspan>&#8203;<tspan x="55.55" y="199.67" textLength="87.94" dx="0,-0.73,-0.76,0,0,0,-0.7,0">internet</tspan>&#8203;<tspan x="64.57" y="230.48" textLength="13.05" class="f43" font-size="21.75">o</tspan>&#8203;<tspan x="87.07" y="230.48" textLength="603.28" dx="0,0,0,0.76,0,-0.73,-0.76,0,0.73,-0.73,-0.73,0,-0.73,2.24,0,0,0,-0.7,0,-0.76,1.49,0,0,0,0,0,-0.7,0,0.73,-0.73,0.73,0,-0.73,0,0.73,0,-0.76,0,0,0,-0.7,0,-0.76,2.24,0,0,0,0,-0.7,0">Come up with a plan for the implementation of the </tspan>&#8203;<tspan x="87.07" y="261.25" textLength="381.65" dx="0,0,0,-0.73,0,0,-0.73,-0.73,-0.73,0,0,0,3.03,0,0,0,0,-0.73,0,0,0.76,-0.73,0,0,0.73,0,0,0,0">Schoolwires teacher web pages</tspan>&#8203;<tspan x="64.57" y="292.03" textLength="13.06" class="f43" font-size="21.77">o</tspan>&#8203;<tspan x="87.07" y="292.03" textLength="632.6" dx="0,0,0,0,-0.7,0,-0.76,1.49,0,0,0,0,0.76,0,-0.73,0,0,0,0,0,-0.73,0,0.73,0,-0.73,0,0,0,0,0,0,0,0.76,0,0,0,-0.7,0,-0.76,1.49,0,0,0,0,-0.73,0,0,0,0.78,0,0">Design a template and suggested design features of </tspan>&#8203;<tspan x="87.07" y="322.80" textLength="302.71" dx="0,-0.73,0,0,0,-0.73,0,1.49,0,-0.76,0,0.73,0,0,0,0,-0.73,0,0.73,0,-0.73,0,0">Moodle and Google Sites</tspan>&#8203;<tspan x="64.57" y="353.57" textLength="13.06" class="f43" font-size="21.77">o</tspan>&#8203;<tspan x="87.07" y="353.57" textLength="652.9" dx="0,0,0,0,0.73,-0.73,-0.73,-0.76,0,-0.76,0,2.24,0,0,0,0.78,-0.73,0,0,-0.73,0,0,-0.76,0,0,1.51,0,-0.73,0,-0.76,0,1.49,0,-0.73,0,0.73,-0.73,0,-0.73,1.49,0,0,0,0,-0.73,0,-0.73,0,0,1.51,0,-0.73,0,0">Seek input from students along the way to ensure that </tspan>&#8203;<tspan x="87.07" y="384.35" textLength="285.57" dx="0,0,-0.73,0,-0.73,0,1.51,-0.76,0,0,0,0,0.76,0,0,0,0,0,0,0,-0.68,0,0,-0.7,0">their needs are satisfied</tspan>&#8203;<tspan x="64.57" y="415.12" textLength="13.06" class="f43" font-size="21.77">o</tspan>&#8203;<tspan x="87.07" y="415.12" textLength="590.5" dx="0,0,0,0,0,0,-0.7,0,0.73,0.73,0,0.73,0,0,0,0,-1.46,0,0,0,0,-0.7,0,0.73,0,0,0,-0.73,0,0.73,0,0,0,0,-0.7,-0.73,0,0,1.49,0,-0.73,0,0.73,0,0,0,-0.7,0,-0.76">Use the members of the group to pilot the design </tspan>&#8203;<tspan x="87.07" y="445.92" textLength="537.93" dx="0,0,0,0.76,0,-0.73,0,0,0,0,0,0,-0.73,0,0,0,0,0.78,0,-0.73,0,0.73,0,0,-0.73,0,0,-0.73,-0.73,-0.73,0,0,0,3.03,-0.73,0,0,0.73,0,0,0,0">templates and/or the Schoolwires web pages</tspan></text>
+</svg>

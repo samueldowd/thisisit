@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="../../dist/crocodoc.viewer.css" />
+    <script src="../../test/framework/jquery.js"></script>
+    <script src="../../dist/crocodoc.viewer.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            height: 100%;
+            background: #fafafa;
+        }
+        .crocodoc-page-inner {
+            border: 1px solid #ccc;
+            box-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+        }
+    </style>
+</head>
+<body>
+    <script>
+        var viewer = Crocodoc.createViewer('body', {
+            url: 'https://view-api.box.com/1/sessions/a7b7e41df3894924bee97fb1435ab3f7/assets'
+        });
+        viewer.load();
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+curl https://view-api.box.com/1/documents -H "Authorization: Token 8r8m9p14p5xarucohc5f0pabkemaycug" -H "Content-Type: application/json" -d '{"url": "http://samueldowd.com/portfolio/INST-941/DowdAssignment3_4.pdf"}' -X POST
+
+INST-941
+Assignment 4.3
+http://samueldowd.com/portfolio/INST-941/DowdAssignment3_4.pdf
+id: "2dff026cddb04d1b81ab4351428efa35"
+
+
+Token 8r8m9p14p5xarucohc5f0pabkemaycug

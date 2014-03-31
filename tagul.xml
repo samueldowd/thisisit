@@ -1,0 +1,40 @@
+<tagul>
+  <head>
+    <shape type="circle" angle="0" ratio="1" useCustomColors="false"/>
+    <relativeSize>27</relativeSize>
+    <tagsAmount>300</tagsAmount>
+    <fonts>
+      <font>Franchise Bold</font>
+    </fonts>
+    <colors>
+      <color>EBAB00</color>
+      <color>003366</color>
+    </colors>
+    <angles>
+      <angle>0</angle>
+    </angles>
+    <styleOptions>
+      <backgroundColor>000000</backgroundColor>
+      <backgroundColorAlpha>1</backgroundColorAlpha>
+      <animationSpeed>0.200000002980232</animationSpeed>
+      <textColor>003366</textColor>
+      <textAlpha>1</textAlpha>
+      <zoom>1</zoom>
+      <rotate>1</rotate>
+      <openLinksInNewWindow>1</openLinksInNewWindow>
+    </styleOptions>
+  </head>
+  <tags>
+    <tag weight="2" url="http://samueldowd.com/portfolio/index.html" color="EBAB00">ED TECH</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/EDUC-998/index.html">EDUC 998</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/EDUC-999/index.html">EDUC 999</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/INST-941/index.html">INST 941</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/INST-943/index.html">INST 943</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/INST-968/index.html">INST 968</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/INST-955/index.html">INST 955</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/INST-951/index.html">INST 951</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/EDLE-927/index.html">EDLE 927</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/GEOG-812/index.html">GEOG 812</tag>
+    <tag weight="1" url="http://samueldowd.com/portfolio/assets/EDUC-991/index.html">EDUC 991</tag>
+  </tags>
+</tagul>

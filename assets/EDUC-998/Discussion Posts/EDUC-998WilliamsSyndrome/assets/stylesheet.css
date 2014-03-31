@@ -1,0 +1,16 @@
+.crocodoc-qDWpO0.crocodoc-page-text { position:relative; overflow:hidden; opacity:0.4; }
+.crocodoc-qDWpO0.crocodoc-page-text ::selection { background:rgba(50, 151, 253, 0.75); }
+.crocodoc-qDWpO0.crocodoc-page-text ::-moz-selection { background:rgba(50, 151, 253, 0.75); }
+.crocodoc-qDWpO0 .tb { position:absolute; }
+.crocodoc-qDWpO0 .tx { position:absolute; display:inline-block; white-space:pre; text-align:left; }
+.crocodoc-qDWpO0 .tx span { display:inline-block; }
+.crocodoc-qDWpO0 .tx.r1,
+.crocodoc-qDWpO0 .tx.r2,
+.crocodoc-qDWpO0 .tx.r3 { -webkit-transform-origin:left top; -ms-transform-origin:left top; -moz-transform-origin:left top; -o-transform-origin:left top; transform-origin:left top; }
+.crocodoc-qDWpO0 .tx.r1 { -webkit-transform:rotate(90deg); -ms-transform:rotate(90deg); -moz-transform:rotate(90deg); -o-transform:rotate(90deg); transform:rotate(90deg); }
+.crocodoc-qDWpO0 .tx.r2 { -webkit-transform:rotate(180deg); -ms-transform:rotate(180deg); -moz-transform:rotate(180deg); -o-transform:rotate(180deg); transform:rotate(180deg); }
+.crocodoc-qDWpO0 .tx.r3 { -webkit-transform:rotate(270deg); -ms-transform:rotate(270deg); -moz-transform:rotate(270deg); -o-transform:rotate(270deg); transform:rotate(270deg); }
+.crocodoc-qDWpO0 .tb { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
+.crocodoc-qDWpO0 .tx { -webkit-user-select: text; -moz-user-select: text; -ms-user-select: text; user-select: text; }
+
+div.crocodoc-qDWpO0 .f10 { font-family: "crocodoc-qDWpO0-inv-10"; line-height:1.12em; } @font-face { font-family: "crocodoc-qDWpO0-inv-10"; src: url(data:font/ttf;base64,AAEAAAAKAIAAAwAgT1MvMgDJAyEAAAEIAAAATmNtYXBFFUVAAAABiAAAAOZnbHlmAAExAAAAAnAAAAAQaGVhZF8SQN4AAACsAAAANmhoZWEDjBCbAAAA5AAAACRobXR4GgoAAAAAAVgAAAAwbG9jYQAIAAAAAAKAAAAAGm1heHAADgABAAACnAAAACBuYW1lADQADAAAArwAAAAqcG9zdAABAAAAAALoAAAAIAABAAAAAQAAH/MCY18PPPUAAAPoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAAEAAAOJ/ywAAA8AAAACYwABAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIADIAAAAAAAAAN4AAAEWAAABTQAAAfQAAAIsAAACYwAAApsAAALSAAADQQAAA7AAAAPoAAAAAAABAAMAAQAAAAwABADaAAAAIgAgAAQAAgAgACwALgBBAEYASQBNAFQAVwBpAHAAeQCgAK0gGSAd//8AAAAgACwALgBBAEQASQBNAFIAVwBhAGsAcgCgAK0gGCAc////6//W/9T/xgAA/7n/vAAA/7MAAAAAAAD/Yv9WAAAAAAABAAAAAAAAAAAAGgAAAAAAGgAAABwALAA2AAAAAABAAEIAAAAIAAcABgAIAAcABgAFAAUABAAFAAUAAgAFAAUAAQAEAAEACQAFAAUABQADAAQAAgAFAAQACAAEAAQAAQABAAMAAwAAAAEAAAAAAAAAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAQAAAAwAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAKgADAAEAAAABAAAAAAADAAEAAAACAAAAAAADAAEAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=); }

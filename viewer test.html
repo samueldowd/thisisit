@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="crocodoc.viewer.min.css">
+<script type="text/javascript" src="jquery.min.js"></script>
+	<link rel="stylesheet" href="crocodoc.viewer.min.css">
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="crocodoc.viewer.min.js"></script>
+	<div class="viewer" height: auto></div>   
+	<script type="text/javascript">
+	    var viewer = Crocodoc.createViewer('.viewer', {
+	    	url: 'https://view-api.box.com/1/documents/adb16190ac8742c6b6603d856c72b18a/content.zip',
+	    	layout: Crocodoc.LAYOUT_VERTICAL_SINGLE_COLUMN
+		});
+	    viewer.load();
+	</script>
+</script>

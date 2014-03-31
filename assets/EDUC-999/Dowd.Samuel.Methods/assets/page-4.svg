@@ -1,0 +1,22 @@
+<svg class="crocodoc-yPVkGq crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="612.0pt" height="792.0pt" viewBox="0 0 612.0 792.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-yPVkGq tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-yPVkGq path { fill:transparent; }
+.crocodoc-yPVkGq [mbm="1"] { opacity:0; }
+.crocodoc-yPVkGq [mbm="2"] { opacity:0.3; }
+.crocodoc-yPVkGq [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-yPVkGq [mbm] { opacity:1; }
+}
+
+</style>
+<defs>
+<clipPath id="Clip_1_4_yPVkGq_2"><path d="M0 792 l612 0 l0 -792 l-612 0 l0 792 " /></clipPath>
+</defs>
+<g clip-path="url(#Clip_1_4_yPVkGq_2)" ><path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><path d="M0 -2376 l612 0 l0 3168 l-612 0 l0 -3168 z "  style="fill:#ffffff;"/><path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><path d="M0 72 l612 0 l0 720 l-612 0 l0 -720 z "  style="fill:#ffffff;"/><text class="f36" font-size="11.25" style="fill:#000000"><tspan x="72.00" y="83.25" textLength="27.51">Bias:</tspan>&#8203;<tspan x="72.00" y="113.25" textLength="75.0">Assumptions:</tspan>&#8203;<tspan x="72.00" y="143.25" textLength="63.75">Limitations:</tspan>&#8203;<tspan x="72.00" y="173.25" textLength="74.38">Delimitations:</tspan></text></g>
+</svg>

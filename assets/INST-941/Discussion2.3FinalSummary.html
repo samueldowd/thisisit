@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="../../css/crocodoc.viewer.min.css">
+	<script type="text/javascript" src="../../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../../js/crocodoc.viewer.min.js"></script>
+	<div class="viewer" height: auto></div>   
+	<script type="text/javascript">
+	    var viewer = Crocodoc.createViewer('.viewer', {
+	    	url: 'http://samueldowd.com/portfolio/assets/INST-941/Discussion2.3FinalSummary/assets',
+	    	layout: Crocodoc.LAYOUT_VERTICAL_SINGLE_COLUMN
+		});
+	    viewer.load();
+	</script>
+	<style>
+	html {
+		overflow: hidden;
+	}
+	.crocodoc-page {
+		padding: 15;
+		background: #666;
+	}
+	</style>    
+ 
+</head>
+<body>
+    	
+</body>
+
+    <script type="text/javascript">
+
+		var windowWidth = $(window).width(); //retrieve current window width
+		var windowHeight = $(window).height(); //retrieve current window height
+		    
+		console.log(windowWidth);
+		console.log(windowHeight);
+
+		$(".viewer").height(windowHeight);
+		$(".viewer").width(windowWidth);
+
+		$(window).resize(function() {
+		  	windowWidth = $(window).width(); //retrieve current window width
+    		windowHeight = $(window).height(); //retrieve current window height
+    		console.log(windowWidth);
+			console.log(windowHeight);
+			$(".viewer").height(windowHeight);
+			$(".viewer").width(windowWidth);
+			});
+
+		/*
+		$(".viewer").height(600);
+		$(".viewer").width(600);
+		*/
+</script>
+
+</html>

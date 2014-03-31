@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/carousel_bs.css",
+			"settings":
+			{
+				"buffer_size": 3547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/blog.css",
+			"settings":
+			{
+				"buffer_size": 2921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/assmnttable.html",
+			"settings":
+			{
+				"buffer_size": 26427,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/INST-951/index.html",
+			"settings":
+			{
+				"buffer_size": 10515,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "todo.txt",
+			"settings":
+			{
+				"buffer_size": 805,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Home/My Documents/GitHub/thisisit/assets/INST-941/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDLE-927/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/GEOG-812/index.html",
+		"/C/Users/Sam/AppData/Local/Temp/fz3temp-1/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/INST-943/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/INST-951/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/index.html",
+		"/C/Users/Sam/Desktop/bookmarks.html",
+		"/D/Home/My Documents/GitHub/thisisit/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/coverletter.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/assmnttable.html",
+		"/D/Home/My Documents/GitHub/thisisit/css/blog.css",
+		"/D/Home/My Documents/GitHub/thisisit/tagul.xml",
+		"/D/Home/My Documents/GitHub/thisisit/prod-assets/EDUC-998/tagul.html",
+		"/D/Home/My Documents/GitHub/thisisit/FadeOutBottom/style.css",
+		"/D/Home/My Documents/GitHub/thisisit/css/bootstrap.min.css",
+		"/D/Home/My Documents/GitHub/thisisit/FadeOutBottom/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/css/bootstrap-theme.css",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998Kanzi.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998FieldExperienceReport.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC998Introduction.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998LanisSpeechEvaluation.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998Morphology.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998OriginofLanguage.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998Pragmatics.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998SocialInteractionTheory.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998SpeechDisorders.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998Syntaxdiscussionpost.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998WhatisLanguage.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998WhorfQuotes.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC-998WilliamsSyndrome.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-998/EDUC998ContextClues.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/INST-941/Chat5Prep.html",
+		"/D/Home/My Documents/GitHub/thisisit/viewertest.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/INST-951/Assignment 16- Sam Dowd.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/ResearchPaperProposal.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/ResearchTypesProsandCons.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/Unit2TypesofResearch.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/Unit4-ResearchStrategies.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/Unit3-SocialResearch.html",
+		"/D/Home/My Documents/GitHub/thisisit/assets/EDUC-999/UNIT1-Assessments.html",
+		"/D/Home/My Documents/GitHub/thisisit/crocodoc.viewer.min.css",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/examples/presentations/index.html",
+		"/C/node/test.js",
+		"/D/Home/My Documents/GitHub/thisisit/test3.html",
+		"/D/Home/My Documents/GitHub/thisisit/test2.html",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/test/index.html",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/Gruntfile.js",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/test/test3.html",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/test3.html",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/.gitignore",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/package.json",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/.editorconfig",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/jsdoc-conf.json",
+		"/D/Home/My Documents/GitHub/thisisit/testboxfile.html",
+		"/D/Home/My Documents/GitHub/thisisit/viewer.js-master/doc/scripts/linenumber.js",
+		"/C/Users/Sam/Desktop/Reunion/weird_week_1_03-23-2014.xml",
+		"/D/Samueldowd-com GD/Google Drive/500 Words/Bio.txt",
+		"/D/Home/My Documents/GitHub/swdsite/resume.html",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/shu/fa07/encc102/midterm.html",
+		"/D/Home/My Documents/GitHub/GhostBlogSTMGIS/content/themes/innocent-master/assets/css/screen.css",
+		"/D/Home/My Documents/GitHub/GhostBlogSTMGIS/config.js",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/css/assignment.css",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/index.html",
+		"/D/Home/My Documents/GitHub/swdsite/css/styles.css",
+		"/C/Users/Sam/Downloads/sexyglass.webflow/index.html",
+		"/C/Users/Sam/Downloads/sexyglass.webflow/css/sexyglass.webflow.css",
+		"/C/Users/Sam/Downloads/Behind the Prism and Google Girlfriend",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/shu/fa07/encc102/lefttotell.html",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/shu/fa07/fr353/final.html",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/port_ass_temp.html",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/port_ass_foot_temp.html",
+		"/D/Google Drive/Downloads/syvida.webflow/index.html",
+		"/D/Google Drive/Downloads/adt-bundle-windows-x86_64-20131030/adt-bundle-windows-x86_64-20131030/sdk/extras/google/usb_driver/android_winusb.inf",
+		"/D/Home/Google Drive/Downloads/adt-bundle-windows-x86_64-20130522/adt-bundle-windows-x86_64-20130522/sdk/extras/google/usb_driver/android_winusb.inf",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/temp-assign.html",
+		"/D/Home/My Documents/GitHub/swdsite/index.html",
+		"/D/Home/My Documents/GitHub/swdsite/css/normalize.css",
+		"/D/Home/My Documents/GitHub/Treebook/db/migrate/20131201023154_add_user_again.rb",
+		"/D/Home/My Documents/GitHub/Treebook/db/migrate/20131201003633_devise_create_users.rb",
+		"/D/Home/My Documents/GitHub/Treebook/config/routes.rb",
+		"/D/Home/My Documents/GitHub/Treebook/app/views/devise/registrations/new.html.erb",
+		"/D/Home/My Documents/GitHub/Treebook/db/migrate/20131201010822_add_user_id_to_statuses.rb",
+		"/D/Home/My Documents/GitHub/Treebook/app/views/statuses/show.html.erb",
+		"/D/Home/My Documents/GitHub/Treebook/config/application.rb",
+		"/D/Home/My Documents/GitHub/Treebook/app/assets/stylesheets/scaffolds.css.scss",
+		"/D/Home/My Documents/GitHub/Dad-Website/index.html",
+		"/D/Home/My Documents/GitHub/swdsite/sitemap.xml",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/pages/Shu.html",
+		"/D/Home/My Documents/GitHub/swdnewportfolio/css/styles.css",
+		"/D/Home/My Documents/GitHub/britowebsite/index.html",
+		"/D/Home/My Documents/GitHub/britowebsite/css/abarbershop.webflow.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GEOG-",
+			"name",
+			"</li>",
+			"<li>",
+			"</li>",
+			"<li>",
+			"ftp://samueldowd@211.ce7.myftpupload.com/samueldowd",
+			"50px",
+			"glyphicons",
+			"font",
+			"container",
+			".featurette",
+			"</strong>",
+			"<strong>",
+			"strong",
+			"prod-assets/",
+			"INST",
+			"EDUC",
+			" ",
+			"</a></li>",
+			"<li><a href=\"#\">",
+			"                    ",
+			"img",
+			"Discussion_Posts",
+			"scussion%20Posts",
+			"Discussion_Posts",
+			"url",
+			"logo",
+			"logo.png",
+			"test/index.html",
+			"jshint",
+			"jquery.min.js",
+			"test/index.html",
+			"rambla",
+			"\n    ",
+			"border",
+			"ul",
+			"index.html",
+			"#status",
+			"#index",
+			"#statuses",
+			"envelope",
+			"footer",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id",
+			"\n                    </li>",
+			"<li>\n                        ",
+			"\n               </li>",
+			"<li>\n                  ",
+			"<li>\n",
+			"http://samueldowd.com",
+			"",
+			"http://samueldowd.com/portfolio/assets/",
+			"prod-assets/INST",
+			"prod-assets/EDUC",
+			"-",
+			"~",
+			"",
+			"Discussion%20Posts",
+			" ",
+			"li"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/carousel_bs.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2546,
+								2546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/blog.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1118,
+								1118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1701.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/assmnttable.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1992,
+								1992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/INST-951/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5515,
+								5439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3647.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "todo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								804,
+								804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "port_sub_proj.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"applica",
+				"config\\application.rb"
+			],
+			[
+				"appl",
+				"config\\application.rb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

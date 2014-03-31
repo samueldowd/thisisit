@@ -1,0 +1,77 @@
+URL	Doc Name	Document ID	Assets URL
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts	Discussion_Posts		
+http://samueldowd.com/portfolio/assets/EDUC-998/Dowd_LanguageSampleAssessment.pdf	Dowd_LanguageSampleAssessment	999dcb1eba5c41728ba7d6fec1005209	
+http://samueldowd.com/portfolio/assets/EDUC-998/Dowd_SLPInterview.pdf	Dowd_SLPInterview	e8acceb9abc042e8b27f6298856f33a4	
+http://samueldowd.com/portfolio/assets/EDUC-998/EDUC-998FieldExperienceReport.pdf	EDUC-998FieldExperienceReport	76d8e85c0fc849189608c565b764eb27	
+http://samueldowd.com/portfolio/assets/EDUC-998/EDUC-998Semantics.pdf	EDUC-998Semantics	3306c9a2eccb4ac8b53ff0820d11548b	
+http://samueldowd.com/portfolio/assets/EDUC-998/SamDowd_EDUC-998Final.pdf	SamDowd_EDUC-998Final	8cba31bcc4264964973f886f803bb4f4	
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998Kanzi.pdf	EDUC-998Kanzi	53beba35b70a42fe92bbda802343e254	
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998LanisSpeechEvaluation.pdf	EDUC-998LanisSpeechEvaluation	34e53d6ea0424bd193978a95d5863dc6	
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998Morphology.pdf	EDUC-998Morphology	1a10b71757ef4772bb2169cd39149d55	
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998OriginofLanguage.pdf	EDUC-998OriginofLanguage	50cd62ca294d481fbfa0a9bf488b4a77	
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998Pragmatics.pdf	EDUC-998Pragmatics	04504df5cff042a6b4a8e87ae3181c79	
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998SocialInteractionTheory.pdf	EDUC-998SocialInteractionTheory		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998SpeechDisorders.pdf	EDUC-998SpeechDisorders		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998Syntaxdiscussionpost.pdf	EDUC-998Syntaxdiscussionpost		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998WhatisLanguage.pdf	EDUC-998WhatisLanguage		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998WhorfQuotes.pdf	EDUC-998WhorfQuotes		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC-998WilliamsSyndrome.pdf	EDUC-998WilliamsSyndrome		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC998ContextClues.pdf	EDUC998ContextClues		
+http://samueldowd.com/portfolio/assets/EDUC-998/Discussion_Posts/EDUC998Introduction.pdf	EDUC998Introduction		
+http://samueldowd.com/portfolio/assets/EDUC-999/Discussion_Posts	Discussion_Posts		
+http://samueldowd.com/portfolio/assets/EDUC-999/Dowd.Samuel.Methods.pdf	Dowd.Samuel.Methods		
+http://samueldowd.com/portfolio/assets/EDUC-999/dowd.samuel.reviewoflit.pdf	dowd.samuel.reviewoflit		
+http://samueldowd.com/portfolio/assets/EDUC-999/Dowd_Final_Paper.pdf	Dowd_Final_Paper		
+http://samueldowd.com/portfolio/assets/EDUC-999/ResearchPaperProposal.pdf	ResearchPaperProposal		
+http://samueldowd.com/portfolio/assets/EDUC-999/Discussion_Posts/ResearchTypesProsandCons.pdf	ResearchTypesProsandCons		
+http://samueldowd.com/portfolio/assets/EDUC-999/Discussion_Posts/UNIT1-Assessments.pdf	UNIT1-Assessments		
+http://samueldowd.com/portfolio/assets/EDUC-999/Discussion_Posts/Unit2TypesofResearch.pdf	Unit2TypesofResearch		
+http://samueldowd.com/portfolio/assets/EDUC-999/Discussion_Posts/Unit3-SocialResearch.pdf	Unit3-SocialResearch		
+http://samueldowd.com/portfolio/assets/EDUC-999/Discussion_Posts/Unit4-ResearchStrategies.pdf	Unit4-ResearchStrategies		
+http://samueldowd.com/portfolio/assets/GEOG-812/GEOG812 Sam Dowd_Final EssayQ2.pdf	GEOG812 Sam Dowd_Final EssayQ2		
+http://samueldowd.com/portfolio/assets/INST-941/941_Assignment_43	941_Assignment_43		
+http://samueldowd.com/portfolio/assets/INST-941/Assignment 1_2A Sam Dowd.pdf	Assignment 1_2A Sam Dowd		
+http://samueldowd.com/portfolio/assets/INST-941/Assignment 3_1 Sam Dowd copy.pdf	Assignment 3_1 Sam Dowd copy		
+http://samueldowd.com/portfolio/assets/INST-941/Assignment 3_2 Sam Dowd.pdf	Assignment 3_2 Sam Dowd		
+http://samueldowd.com/portfolio/assets/INST-941/Assignment3.3.pdf	Assignment3.3		
+http://samueldowd.com/portfolio/assets/INST-941/Chat5Prep.pdf	Chat5Prep		
+http://samueldowd.com/portfolio/assets/INST-941/Discussion 2.2 Initial Post.pdf	Discussion 2.2 Initial Post		
+http://samueldowd.com/portfolio/assets/INST-941/Discussion2.2Summary.pdf	Discussion2.2Summary		
+http://samueldowd.com/portfolio/assets/INST-941/Discussion2.3FinalSummary.pdf	Discussion2.3FinalSummary		
+http://samueldowd.com/portfolio/assets/INST-941/DowdAssignment3_4.pdf	DowdAssignment3_4		
+http://samueldowd.com/portfolio/assets/INST-941/Group Project	Group Project		
+http://samueldowd.com/portfolio/assets/INST-941/LiveChat4Prep.pdf	LiveChat4Prep		
+http://samueldowd.com/portfolio/assets/INST-941/Sam_Dowd_Annotated_Hotlist.pdf	Sam_Dowd_Annotated_Hotlist		
+http://samueldowd.com/portfolio/assets/INST-941/Week 14 Project	Week 14 Project		
+http://samueldowd.com/portfolio/assets/INST-941/Group Project/GroupEvaluation (1).pdf	GroupEvaluation (1)		
+"http://samueldowd.com/portfolio/assets/INST-941/Group Project/Know, Want, Learn 2.pdf"	"Know, Want, Learn 2"		
+"http://samueldowd.com/portfolio/assets/INST-941/Group Project/Know, Want1.pdf"	"Know, Want1"		
+http://samueldowd.com/portfolio/assets/INST-941/Group Project/Ticket to Leave_ Peer Collaboration.pdf	Ticket to Leave_ Peer Collaboration		
+http://samueldowd.com/portfolio/assets/INST-941/Group Project/Website Evaluation Worksheet.pdf	Website Evaluation Worksheet		
+http://samueldowd.com/portfolio/assets/INST-941/Group Project/Wikispaces Link.pdf	Wikispaces Link		
+http://samueldowd.com/portfolio/assets/INST-941/Week 14 Project/Advertisement Rubric.pdf	Advertisement Rubric		
+http://samueldowd.com/portfolio/assets/INST-941/Week 14 Project/Assignment5.2A-FinalProjectProposal-Draft2.pdf	Assignment5.2A-FinalProjectProposal-Draft2		
+http://samueldowd.com/portfolio/assets/INST-941/Week 14 Project/Presentation Rubric.pdf	Presentation Rubric		
+http://samueldowd.com/portfolio/assets/INST-941/Week 14 Project/SWOT Analysis Rubric.pdf	SWOT Analysis Rubric		
+http://samueldowd.com/portfolio/assets/INST-941/Week 14 Project/SWOTAnalysisTemplate.pdf	SWOTAnalysisTemplate		
+http://samueldowd.com/portfolio/assets/INST-943/1-27 Final Excel Project Lesson Plan.pdf	1-27 Final Excel Project Lesson Plan		
+http://samueldowd.com/portfolio/assets/INST-943/Assignment 1-15 Multiple Choice Quiz.ppt	Assignment 1-15 Multiple Choice Quiz		
+http://samueldowd.com/portfolio/assets/INST-943/Assignment 1-16.ppt	Assignment 1-16		
+http://samueldowd.com/portfolio/assets/INST-943/Freshman Tech SeminarÿLesson Plan.pdf	Freshman Tech SeminarÿLesson Plan		
+http://samueldowd.com/portfolio/assets/INST-943/LA 1.8- Newsletter Sam Dowd.pdf	LA 1.8- Newsletter Sam Dowd		
+http://samueldowd.com/portfolio/assets/INST-943/PuzzleMaker puzzle.pdf	PuzzleMaker puzzle		
+http://samueldowd.com/portfolio/assets/INST-943/SoftwareEvaluation.pdf	SoftwareEvaluation		
+http://samueldowd.com/portfolio/assets/INST-943/Web_Committee_PPT.ppt	Web_Committee_PPT		
+http://samueldowd.com/portfolio/assets/INST-951/1.2 Web Site eval.pdf	1.2 Web Site eval		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment 16- Sam Dowd.pdf	Assignment 16- Sam Dowd		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment 23- Construcivist Theory Dowd_Knapik.pdf	Assignment 23- Construcivist Theory Dowd_Knapik		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment 25- Mean Median and Mode copy.pdf	Assignment 25- Mean Median and Mode copy		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment 8- Mini Lesson.pdf	Assignment 8- Mini Lesson		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment10-ProblemSolvingUnit.pdf	Assignment10-ProblemSolvingUnit		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment6-LessonPlan.pdf	Assignment6-LessonPlan		
+http://samueldowd.com/portfolio/assets/INST-951/Assignment_10_Problem_Solving_Unit.ppt	Assignment_10_Problem_Solving_Unit		
+http://samueldowd.com/portfolio/assets/INST-951/Discussion Board Rubric.pdf	Discussion Board Rubric		
+http://samueldowd.com/portfolio/assets/INST-951/InteractivePowerPointPatternsminilesson.pdf	InteractivePowerPointPatternsminilesson		
+http://samueldowd.com/portfolio/assets/INST-951/Math Inst Jeopardy (1).pptx	Math Inst Jeopardy (1)x		
+http://samueldowd.com/portfolio/assets/INST-951/Math Inst password.ppt	Math Inst password		
+http://samueldowd.com/portfolio/assets/INST-951/SMART Notebook.pdf	SMART Notebook		
