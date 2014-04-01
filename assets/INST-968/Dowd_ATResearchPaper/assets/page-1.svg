@@ -1,0 +1,22 @@
+<svg class="crocodoc-4rIxOZ crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="612.0pt" height="792.0pt" viewBox="0 0 612.0 792.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-4rIxOZ tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-4rIxOZ path { fill:transparent; }
+.crocodoc-4rIxOZ [mbm="1"] { opacity:0; }
+.crocodoc-4rIxOZ [mbm="2"] { opacity:0.3; }
+.crocodoc-4rIxOZ [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-4rIxOZ [mbm] { opacity:1; }
+}
+
+</style>
+<defs>
+<clipPath id="Clip_1_1_4rIxOZ_2"><path d="M0 792 l612 0 l0 -792 l-612 0 l0 792 " /></clipPath>
+</defs>
+<g clip-path="url(#Clip_1_1_4rIxOZ_2)" ><path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><path d="M0 0 l612 0 l0 3960 l-612 0 l0 -3960 z "  style="fill:#ebebeb;"/><path d="M0 0 l612 0 l0 3960 l-612 0 l0 -3960 z "  style="fill:#ebebeb;"/><path d="M0 0 l612 0 l0 3960 l-612 0 l0 -3960 z "  style="fill:#ffffff;"/><path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/></g><text class="f19" font-size="11.25" style="fill:#000000"><tspan x="72.00" y="45.75" textLength="121.28">AT&#57445;RESEARCH&#57445;PAPER</tspan>&#8203;<tspan x="504.00" y="45.75" textLength="37.51">&#57445;&#57445;&#57445;&#57445;&#57445;&#57445;&#57445;&#57445;&#57445;&#57445;1</tspan></text><text class="f19" font-size="11.25" style="fill:#000000"><tspan x="211.50" y="210.00" textLength="193.22">Assistive&#57445;Technology&#57445;Research&#57445;Paper:</tspan>&#8203;<tspan x="212.25" y="235.50" textLength="192.58">Assistive&#57445;Technology&#57445;in&#57445;the&#57445;Workplace</tspan>&#8203;<tspan x="278.25" y="261.00" textLength="55.02">Sam&#57445;Dowd</tspan>&#8203;<tspan x="235.50" y="286.50" textLength="145.05">Framingham&#57445;State&#57445;University</tspan>&#8203;<tspan x="282.75" y="312.00" textLength="48.14">INST&#57446;968</tspan></text>
+</svg>

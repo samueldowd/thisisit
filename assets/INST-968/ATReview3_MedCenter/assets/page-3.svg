@@ -1,0 +1,22 @@
+<svg class="crocodoc-0IMArb crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="612.0pt" height="792.0pt" viewBox="0 0 612.0 792.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-0IMArb tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-0IMArb path { fill:transparent; }
+.crocodoc-0IMArb [mbm="1"] { opacity:0; }
+.crocodoc-0IMArb [mbm="2"] { opacity:0.3; }
+.crocodoc-0IMArb [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-0IMArb [mbm] { opacity:1; }
+}
+
+</style>
+<defs>
+
+</defs>
+<path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><text class="f21" font-size="12.00" style="fill:#000000"><tspan x="108.00" y="82.69" textLength="428.53">that the trays are in rows of 8. It would be a little more intuitive if they were in rows of 7 </tspan>&#8203;<tspan x="108.00" y="96.49" textLength="364.98">simulating the days of the week. This could cause some confusion for users.</tspan></text><text class="f21" font-size="8.00" style="fill:#000000"><tspan x="508.22" y="735.70" textLength="33.77">INST 968 </tspan>&#8203;<tspan x="455.57" y="744.90" textLength="86.38">Product Information Form </tspan>&#8203;<tspan x="494.89" y="754.10" textLength="45.09">Summer 2013</tspan></text>
+</svg>

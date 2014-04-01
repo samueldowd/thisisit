@@ -1,0 +1,22 @@
+<svg class="crocodoc-r2TrXG crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="612.0pt" height="792.0pt" viewBox="0 0 612.0 792.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-r2TrXG tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-r2TrXG path { fill:transparent; }
+.crocodoc-r2TrXG [mbm="1"] { opacity:0; }
+.crocodoc-r2TrXG [mbm="2"] { opacity:0.3; }
+.crocodoc-r2TrXG [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-r2TrXG [mbm] { opacity:1; }
+}
+
+</style>
+<defs>
+<clipPath id="Clip_1_2_r2TrXG_2"><path d="M0 792 l612 0 l0 -792 l-612 0 l0 792 " /></clipPath>
+</defs>
+<g clip-path="url(#Clip_1_2_r2TrXG_2)" ><path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><path d="M0 -792 l612 0 l0 1584 l-612 0 l0 -1584 z "  style="fill:#ebebeb;"/><path d="M0 -792 l612 0 l0 1584 l-612 0 l0 -1584 z "  style="fill:#ebebeb;"/><path d="M0 -792 l612 0 l0 1584 l-612 0 l0 -1584 z "  style="fill:#ffffff;"/><path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><text class="f18" font-size="11.25" style="fill:#000000"><tspan x="72.00" y="82.50" textLength="458.99">way.&#57354;It&#57354;poses&#57354;significant&#57354;technical&#57354;hurdles&#57354;and&#57354;costs&#57354;quite&#57354;a&#57354;bit&#57354;to&#57354;run&#57354;efficiently,&#57354;but&#57354;if&#57354;we&#57354;are</tspan>&#8203;<tspan x="72.00" y="99.00" textLength="366.47">looking&#57354;at&#57354;the&#57354;problem&#57354;in&#57354;the&#57354;eye&#57354;of&#57354;the&#57354;student,&#57354;BYOD&#57354;is&#57354;a&#57354;great&#57354;solution.</tspan></text></g>
+</svg>

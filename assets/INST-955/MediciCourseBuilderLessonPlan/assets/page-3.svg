@@ -1,0 +1,22 @@
+<svg class="crocodoc-h5ItiP crocodoc-page-svg" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xml:space="preserve" width="612.0pt" height="792.0pt" viewBox="0 0 612.0 792.0">
+<xhtml:link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<style>
+.crocodoc-h5ItiP tspan { white-space:pre; direction:ltr; unicode-bidi:bidi-override; }
+.crocodoc-h5ItiP path { fill:transparent; }
+.crocodoc-h5ItiP [mbm="1"] { opacity:0; }
+.crocodoc-h5ItiP [mbm="2"] { opacity:0.3; }
+.crocodoc-h5ItiP [mbm="3"] { opacity:0.5; }
+@supports (mix-blend-mode: multiply) {
+.crocodoc-h5ItiP [mbm] { opacity:1; }
+}
+
+</style>
+<defs>
+
+</defs>
+<path d="M0 0 l612 0 l0 792 l-612 0 l0 -792 z "  style="fill:#ffffff;"/><text class="f9" font-size="12.00" style="fill:#000000"><tspan x="91.13" y="39.17" textLength="54.66">Sam Dowd</tspan>&#8203;<tspan x="487.13" y="39.17" textLength="33.74" dx="0,0,0,0,0,0.03">Page 3</tspan></text><text class="f9" font-size="12.00" style="fill:#000000"><tspan x="90.00" y="66.27" textLength="135.06">be used in any real course.</tspan></text><text class="f9" font-size="12.00" style="fill:#000000"><tspan x="90.00" y="741.83" textLength="49.0">INST-955</tspan>&#8203;<tspan x="450.00" y="741.83" textLength="70.39">June 17, 2013</tspan></text>
+</svg>
