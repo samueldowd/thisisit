@@ -1,0 +1,36 @@
+curl https://view-api.box.com/1/documents \
+-H "Authorization: Token 8r8m9p14p5xarucohc5f0pabkemaycug" \
+-H "Content-Type: application/json" \
+-d '{"url": “https://cloud.box.com/shared/static/4qhegqxubg8ox0uj5ys8.pdf"}' \
+-X POST
+
+curl https://view-api.box.com/1/documents \
+-H "Authorization: Token 8r8m9p14p5xarucohc5f0pabkemaycug"
+
+curl https://view-api.box.com/1/documents \
+-H "Authorization: Token YOUR_API_KEY" \
+-H "Content-Type: application/json" \
+-d '{"url": "https://cloud.box.com/shared/static/4qhegqxubg8ox0uj5ys8.pdf"}' \
+-X POST
+
+{
+    "document_collection": {
+        "total_count": 2,
+        "entries": [
+            {
+                "type": "document",
+                "id": "57df383fcf3d4ea7b69aaa05566f364f",
+                "status": "done",
+                "name": "",
+                "created_at": "2014-03-27T18:43:58Z"
+            },
+            {
+                "type": "document",
+                "id": "44bf92c8706f4eccbbe98ff812e002e0",
+                "status": "done",
+                "name": "",
+                "created_at": "2014-03-27T18:43:29Z"
+            }
+        ]
+    }
+}
