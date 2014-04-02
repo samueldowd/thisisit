@@ -1,33 +1,6 @@
-INST-955 Document Conversion
-INST-955 Page Building
-INST-955 Document Posting
-Add INST-955 Documents to the Assignment Table (Including YouTube Video)
-INST-968 Document Conversion
-INST-968 Page Building
-INST-968 Document Posting
-Add Remaining INST-968 Documents to Assignment Table
-FIND EDUC-991 Docs
-EDUC-991 Document Conversion
-EDUC-991 Page Building
-EDUC-991 Document Posting
-Add EDUC-991 Documents to the Assignment Table
-
-INST-941 Reflection
-INST-943 Reflection
-INST-951 Reflection
-INST-955 Reflection
-INST-968 Reflection
-EDUC-991 Reflection
-EDUC-998 Reflection
-EDUC-999 Reflection
 
 Cover Letter
 
-Written Reflection
-
-Take logo off of Viewer.js
-Change NavBar link to go to Port Home
-Remove _blank target from home page links
 
 Check Links/Resend all index files
 Check Structure
